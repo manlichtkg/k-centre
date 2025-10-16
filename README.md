@@ -1,7 +1,4 @@
-Excellent 💪 Voici un **README clair, bien structuré et esthétique** que tu peux inclure dans ton projet R (par exemple dans un fichier `README.md`).
-Il explique le but, la méthode, le code et la visualisation.
 
----
 
 # 📘 Optimisation du choix de deux centres minimisant la distance maximale des points
 
